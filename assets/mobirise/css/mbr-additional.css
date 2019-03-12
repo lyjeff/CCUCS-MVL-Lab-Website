@@ -2612,7 +2612,7 @@ body {
 .cid-rkl98NajBy {
   padding-top: 75px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/mbr-4-1920x1277.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1241.jpg");
 }
 .cid-rkl98NajBy div.b {
   padding-top: 2rem;
@@ -2666,6 +2666,13 @@ body {
 }
 .cid-rkl98NajBy H2 {
   color: #232323;
+}
+.cid-rkl98NajBy .mbr-text B {
+  color: #232323;
+}
+.cid-rkl98NajBy .mbr-text P {
+  text-align: left;
+  color: #ffffff;
 }
 .cid-rkar8aLVN4 {
   padding-top: 30px;
