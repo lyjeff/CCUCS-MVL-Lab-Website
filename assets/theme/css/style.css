@@ -495,3 +495,25 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+
+/* 輪播 */
+.div1 {
+	width:200px;
+	height:50px;
+	overflow:hidden;
+	margin:auto;
+	position:relative;
+}
+@keyframes anis {
+	100% {
+	transform:translateY(-200px)
+}
+}/*img {
+	position:absolute;
+}*/
+.div2 {
+	animation:anis 10s linear infinite;
+}
+.div2:hover {
+	animation-play-state:paused;
+}
