@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lab_site",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#2f1305",
+        "#042724",
+        "#58530e",
         "#f2e845",
         "#efbe2b",
         "#333333",
-        "#387edd",
-        "#b09318",
-        "#431f05",
-        "#43240d"
+        "#387edd"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1416,7 +1416,7 @@
             },
             ".mbr-author-desc": {
               "display": "block",
-              "color": "#5b686b"
+              "color": "#2f1305"
             },
             ".mbr-author-name": {
               "color": "#232323"
