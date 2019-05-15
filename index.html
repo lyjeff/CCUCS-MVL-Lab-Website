@@ -17,6 +17,32 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <!--Slide Table-->
+  	<style type="text/css">
+	#table_div{
+		font-family:標楷體;
+		width:80%;
+		margin-left: 50px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+	#table_block{
+	}
+	tbody tr:nth-child(odd) {
+        background-color:#ecf5ff
+    }
+		
+	#table_header{
+		background-color:#ceceff;
+	}
+	.col1{
+		width: 20%
+	}
+	.col2{
+		width: 80%
+	}
+	
+	</style>
   
   
   
@@ -64,8 +90,8 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="mbr-white col-md-10">
-                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-2">國立中正大學</h1>
-                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-1"><strong><em>機器視覺與學習實驗室</em></strong></h3>
+                <h1 class="mbr-section-title align-center mbr-bold pb-3 mbr-fonts-style display-2"><font face="標楷體">國立中正大學</font></h1>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-1"><strong><em><font face="標楷體">機器視覺與學習實驗室</font></em></strong></h3>
                 <p class="mbr-text align-center pb-3 mbr-fonts-style display-2">Welcome To Machine Vision and Learning Lab<br></p>
                 
             </div>
@@ -82,14 +108,61 @@
 
     <div class="container">
         <div class="row justify-content-md-center">
-            <div class="col-md-10 align-center">
+            
                 
-                
-                <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                    Full width intro with adjustable height, background image and a color overlay. Click any text to edit or style it.
-                </p>
-                
-            </div>
+            <p class="mbr-text pb-3 mbr-fonts-style display-5">
+				<!--Slide Table-->		
+				<div id="table_div">
+					<table width="100%">
+						<tr id="table_header">
+							<th class="col1">日期</th>
+							<th class="col2">公告</th>
+
+						</tr>	
+					</table>
+				<div id="table_block" style="overflow:auto;height:100px">
+					<table width="100%">
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">賀 實驗室網站上線啦~</td>
+
+						</tr>
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">賀	競賽作品 [大家牙起來]	榮獲2019全國大專院校軟體競賽季軍</td>
+
+						</tr>
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">賀	競賽作品 [我是大明星]	榮獲2019全國大專院校軟體競賽季軍</td>
+
+						</tr>
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">11111111111</td>
+
+						</tr>
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">2222222222222</td>
+
+						</tr>
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">3333333333333</td>
+
+						</tr>
+						<tr>
+							<td class="col1">2019/5/7</td>
+							<td class="col2">4444444444</td>
+
+						</tr>
+
+					</table>
+				</div>
+				</div>
+            </p>
+            
         </div>
     </div>
 
@@ -106,7 +179,7 @@
             <div class="col-md-10 align-center">
                 
                 <h3 class="mbr-section-subtitle mbr-light pb-3 mbr-fonts-style display-2"><strong>RESEARCH</strong></h3>
-                <p class="mbr-text pb-3 mbr-fonts-style display-5"><strong>實驗室近年研究方向與成果</strong></p>
+                <p class="mbr-text pb-3 mbr-fonts-style display-5"><strong><font face="標楷體">實驗室近年研究方向與成果</font></strong></p>
                 
             </div>
         </div>
@@ -127,12 +200,12 @@
                     <img src="assets/images/makeup-attack-628x279.png" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>將攻擊資訊包含在化妝中對深度學習模型進行攻擊
-                    </strong></h2>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">將攻擊資訊包含在化妝中對深度學習模型進行攻擊
+                    </font></strong></h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">
-                        機器學習的發展非常迅速，在電腦視覺和自然語言處理方面都有很好的成果。有許多深度學習技術被運用在人類日常生活當中例如自動駕駛汽車和人臉辨識系統。如今，人類日常生活漸漸的依賴於深度神經網路可能會導致嚴重的後果，因此神經網路的安全性就變的很重要。因此展現深度神經網路其實有明顯的弱點，我們提出了一種基於生成對抗網絡的方法來生成可以欺騙人臉識別系統的臉部化妝圖片。我們在人類無法察覺的異常化妝照片結果中隱藏了攻擊的擾動信息。實驗結果顯示，我們不但可以生成高畫質的臉部化妝圖像，並且我們的攻擊結果在人臉識別系統中具有很高的攻擊成功率。
-                        </p>
+                        <font face="標楷體">機器學習的發展非常迅速，在電腦視覺和自然語言處理方面都有很好的成果。有許多深度學習技術被運用在人類日常生活當中例如自動駕駛汽車和人臉辨識系統。如今，人類日常生活漸漸的依賴於深度神經網路可能會導致嚴重的後果，因此神經網路的安全性就變的很重要。因此展現深度神經網路其實有明顯的弱點，我們提出了一種基於生成對抗網絡的方法來生成可以欺騙人臉識別系統的臉部化妝圖片。我們在人類無法察覺的異常化妝照片結果中隱藏了攻擊的擾動信息。實驗結果顯示，我們不但可以生成高畫質的臉部化妝圖像，並且我們的攻擊結果在人臉識別系統中具有很高的攻擊成功率。
+                        </font></p>
                     </div>
 
                     
@@ -155,13 +228,13 @@
                     <img src="assets/images/music-game-628x396.png" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">
                         利用生成對抗網路產生音樂節奏遊戲
-                    </strong></h2>
+                    </font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">
                         音樂節奏遊戲是目前非常熱門的遊戲，我們提出了基於生成對抗網路的方法產生音樂節奏遊戲譜面。音樂被分離為人聲與配樂兩部分，使產生的譜面更貼近真實譜面。 模型包含兩種生成對抗網路的概念：為了加入音樂資訊而採用的Conditional Generative Adversarial Nets (CGANs)以及使模型更好收斂的Improved Wasserstein GAN (WGAN-GP)。
-                        </p>
+                        </font></p>
                     </div>
 
                     
@@ -184,11 +257,11 @@
                     <img src="assets/images/scribble-lines-to-painting-520x237.jpg" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>人人都是藝術家! 塗鴉生成畫作</strong></h2>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">人人都是藝術家! 塗鴉生成畫作</font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">
                         我們提出一個全自動化的系統，可以將隨意畫的塗鴉轉化成一幅畫作。然而這是一個嚴峻的挑戰，原因在於輸入的塗鴉可能是非常雜亂並且隱藏著多重物件的， 因此找到這些重複的線條與多重的物件之間的關聯性並不是件簡單的事。在系統當中，我們結合使用了 selective search、sparse coding 與 Convolutional neural network (CNN)， 其中我們運用 selective search 來找尋塗鴉當中可能是物件的部分；接著利用 sparse coding 來找到相對應的元素；最後藉由 CNN 套上欲轉換的風格。最終的實驗結果顯示我們所使用的方法有優越的性能並且產生具有藝術性的作品。
-                        </p>
+                        </font></p>
                     </div>
 
                     
@@ -211,12 +284,12 @@
                     <img src="assets/images/full-model-2-844x484.jpg" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">
                         衣著樣式分析與流行元素擷取
-                    </strong></h2>
+                    </font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">隨著衣服和配飾樣式越來越多，無論實體或網路店家，消費者要在眾多樣式中找尋自己喜好的樣式將花費大量的時間，因此若消費者能給一些喜歡的服飾照片，系統分析照片中服飾找出相關資訊（如店家地址、搭配相關配飾等）。對店家而言，若能收集到顧客相關服裝風格就可以根據這份資訊調整進貨款式和店裡的擺設，進一步根據消費者的喜好推薦相關配飾給消費者並節省消費者去尋找能搭配相關配飾時間。對成衣商而言，能透過各個店家收集的資料加以分析就能知道那些款式受歡迎那些款式不受歡迎，進而成為下一批新款式的設計參考。
-<br></p>
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">隨著衣服和配飾樣式越來越多，無論實體或網路店家，消費者要在眾多樣式中找尋自己喜好的樣式將花費大量的時間，因此若消費者能給一些喜歡的服飾照片，系統分析照片中服飾找出相關資訊（如店家地址、搭配相關配飾等）。對店家而言，若能收集到顧客相關服裝風格就可以根據這份資訊調整進貨款式和店裡的擺設，進一步根據消費者的喜好推薦相關配飾給消費者並節省消費者去尋找能搭配相關配飾時間。對成衣商而言，能透過各個店家收集的資料加以分析就能知道那些款式受歡迎那些款式不受歡迎，進而成為下一批新款式的設計參考。
+<br></font></p>
                     </div>
 
                     
@@ -239,15 +312,15 @@
                     <img src="assets/images/60359706-2364327760514781-6025843136377389056-n-641x285.png" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">
                         基於感測器的復健動作之深度學習識別與評估
-                    </strong></h2>
+                    </font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">本方法中，我們的目標是在好、中、壞三個評等中，評估四種復健動作，我們提出了一個創新的方法，是藉由學習每個類別的最好特徵表示。
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">本方法中，我們的目標是在好、中、壞三個評等中，評估四種復健動作，我們提出了一個創新的方法，是藉由學習每個類別的最好特徵表示。
 <br>我們的想法是設計一個評估矩陣，而這個矩陣的每個元素對應一個動作的一個評等。
 <br>藉由在一個元素中設置最大數字，評估矩陣可以與深度學習模型的輸出層一起使用，以在特定級別推斷該練習的最佳特徵。
 <br>評估分數是通過檢查當前特徵的距離度量和該類的最佳特徵來獲得。
-<br>我們還為復健動作評估收集了一個新的復健動作數據集。 它包含四個不同的復健動作，分別由復健醫師定義。</p>
+<br>我們還為復健動作評估收集了一個新的復健動作數據集。 它包含四個不同的復健動作，分別由復健醫師定義。</font></p>
                     </div>
 
                     
@@ -270,13 +343,13 @@
                     <img src="assets/images/outdoor-low-resolution-face-recognition-554x261.png" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">
                         戶外低解析人臉辨識
-                    </strong></h2>
+                    </font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">
                         此計畫目標是對於低解析度的人臉影像進行比對，驗證是否為同一人。現今在未受限制的環境中，人臉辨識的效能常會因為姿勢的因素而下降，所以我們建立一個姿勢正規化的方法來復原任意的臉部角度，藉此回復任意狀態的臉部角度以增加人臉辨識的效能。而此計畫使用了兩種 Caffe 之模型架構: Matching-Convolutional NeuralNetwork (M-CNN)、Siamese Neural Network (SNN)。最後經實驗結果得到 SNN 模型準確率達 90% 以上，與 M-CNN 相較之下較高。
-                        </p>
+                        </font></p>
                     </div>
 
                     
@@ -299,13 +372,13 @@
                     <img src="assets/images/image-multi-label-classification-628x461.jpg" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">
                         多重屬性影像分類
-                    </strong></h2>
+                    </font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">
                         進行人臉圖片分類時，欲辨識的圖片中難免會有一些配件，如：太陽眼鏡、圍巾、耳環等，或是外在環境因素，如：光線、角度等， 這些配件或是環境因素在人臉圖片中稱之為多重屬性。本實驗室利用既有的 Local Discriminant Embedding (LDE) 演算法作為延伸，達到多重屬性分類的目的。
-                        </p>
+                        </font></p>
                     </div>
 
                     
@@ -328,11 +401,11 @@
                     <img src="assets/images/sparse-coding-628x463.jpg" alt="Mobirise" title="">
                 </div>
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong>稀疏編碼 Sparse Coding</strong></h2>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-5"><strong><font face="標楷體">稀疏編碼 Sparse Coding</font></strong></h2>
                     <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-7"><font face="標楷體">
                         近年來 sparse coding 在電腦視覺以及影像處理的領域相當受到歡迎，sparse coding 由輸入資料、dictionary 以及輸入資料對應的線性組合組成。sparse coding 可以用來影像除噪 (denoising)、影像復原 (restoration)，以及影像分類 (classification) 等工作。本實驗室基於稀疏編碼著重於二個研究方向：多重屬性影像分類以及巨量資料的稀疏編碼。
-                        </p>
+                        </font></p>
                     </div>
 
                     
@@ -365,14 +438,14 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/chen.kuo.chiang-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           江振國<br>Chiang, Chen-Kuo</strong><br><strong>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           江振國</font><br>Chiang, Chen-Kuo</strong><br><strong>
                         </strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Assistant Professor</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Ph.D., National Tsing Hua University, Taiwan
-<br>Office: 創新大樓305
+<br>Office: <font face="標楷體">創新大樓305</font>
 <br>Email: ckchiang_AT_cs.ccu.edu.tw
 <br>Home: http://www.cs.ccu.edu.tw/~ckchiang/</small>
                     </div>
@@ -415,7 +488,7 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/zhen-an-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>朱政安</strong><br><strong>Zhu, Zhen-An</strong><br></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">朱政安</font></strong><br><strong>Zhu, Zhen-An</strong><br></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7"><div>Ph.D Student</div></div>
@@ -430,7 +503,7 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/hao-ting-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>李皓庭<br>Li, Hao-Ting</strong><br></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">李皓庭</font><br>Li, Hao-Ting</strong><br></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Ph.D Student</div>
@@ -445,8 +518,8 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/chan-shih-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           胡展碩<br>Hu, Chan-Shuo</strong></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           胡展碩</font><br>Hu, Chan-Shuo</strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student
@@ -462,8 +535,8 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/zi-ting-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           黃子庭<br>Huang, Zi-Ting</strong></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           黃子庭</font><br>Huang, Zi-Ting</strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student
@@ -479,8 +552,8 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/wen-hsiu-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           楊文綉<br>Yang, Wen-Hsiu</strong></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           楊文綉</font><br>Yang, Wen-Hsiu</strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student
@@ -496,8 +569,8 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/chu-en-225x225.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           陳主恩</strong><br><strong>Chen, Chu-En</strong></p></div>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           陳主恩</font></strong><br><strong>Chen, Chu-En</strong></p></div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student
 </div>
@@ -532,8 +605,8 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/jheng-jhang-225x225.png" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           沈政璋</strong><br><strong>Shen, Jheng-Jhang</strong></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           沈政璋</font></strong><br><strong>Shen, Jheng-Jhang</strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student
@@ -549,7 +622,7 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/yan-ming-240x231.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>陳彥名<br>Chen,Yan-Ming</strong><br></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">陳彥名</font><br>Chen,Yan-Ming</strong><br></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student
@@ -565,7 +638,7 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/ming-xiu-240x240.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>江明修<br>Jiang, Ming-Xiu
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">江明修</font><br>Jiang, Ming-Xiu
                         </strong></p>
                     </div>
                     <div class="card-footer">
@@ -582,7 +655,7 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/240x226.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>劉永平<br>Liu, Yung-Ping</strong></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">劉永平</font><br>Liu, Yung-Ping</strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student</div>
@@ -597,7 +670,7 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/wei-hsiang-5-240x180.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>黃韋翔<br>Huang, Wei-Hsiang<br></strong></p>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">黃韋翔</font><br>Huang, Wei-Hsiang<br></strong></p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student</div>
@@ -612,8 +685,8 @@
                         <div class="testimonial-photo">
                             <img src="assets/images/chein-hao-1-240x160.jpg" alt="" title="">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-4"><strong>
-                           陳建豪<br>Chen, Chein-Hao<br></strong></p></div>
+                        <p class="mbr-text mbr-fonts-style display-4"><strong><font face="標楷體">
+                           陳建豪</font><br>Chen, Chein-Hao<br></strong></p></div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">Master Student</div>
                         <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7"></small>
@@ -647,7 +720,7 @@
                         <h5 class="align-left mbr-fonts-style m-0 display-2">
                             Address:
                         </h5>
-                        <p class="mbr-text align-left mbr-fonts-style display-5">國立中正大學 創新大樓3樓310</p>
+                        <p class="mbr-text align-left mbr-fonts-style display-5"><font face="標楷體">國立中正大學 創新大樓3樓310</font></p>
                     </div>
                     <div class="b b-phone">
                         <h5 class="align-left mbr-fonts-style m-0 display-2">
