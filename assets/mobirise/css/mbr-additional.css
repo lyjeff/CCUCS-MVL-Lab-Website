@@ -1715,13 +1715,17 @@ body {
 .cid-rkAFh7bGWK P {
   color: #767676;
 }
-.cid-rjS03AEuws {
+.cid-rqviwTjYF6 {
   padding-top: 15px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rjS03AEuws P {
+.cid-rqviwTjYF6 P {
   color: #767676;
+}
+.cid-rqviwTjYF6 .mbr-text,
+.cid-rqviwTjYF6 .mbr-section-btn {
+  color: #784729;
 }
 .cid-rka2wignqF {
   padding-top: 30px;
@@ -2243,39 +2247,39 @@ body {
 .cid-rkameIUc1w .mbr-text {
   color: #232323;
 }
-.cid-rkanaIwPnq {
+.cid-rqvioCvDUS {
   padding-top: 90px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/mbr-6-1920x1276.jpg");
 }
-.cid-rkanaIwPnq .mbr-section-subtitle {
-  color: #767676;
+.cid-rqvioCvDUS .mbr-section-subtitle {
+  color: #170a94;
 }
-.cid-rkanaIwPnq .media-container-row {
+.cid-rqvioCvDUS .media-container-row {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-rkanaIwPnq .mbr-text {
+.cid-rqvioCvDUS .mbr-text {
   color: #232323;
   text-align: center;
 }
-.cid-rkanaIwPnq .mbr-author-desc {
+.cid-rqvioCvDUS .mbr-author-desc {
   display: block;
   color: #5b686b;
 }
-.cid-rkanaIwPnq .mbr-author-name {
+.cid-rqvioCvDUS .mbr-author-name {
   color: #232323;
 }
-.cid-rkanaIwPnq .mbr-testimonial .panel-item {
+.cid-rqvioCvDUS .mbr-testimonial .panel-item {
   background-color: #efefef;
 }
-.cid-rkanaIwPnq .mbr-testimonial .card-block {
+.cid-rqvioCvDUS .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
-.cid-rkanaIwPnq .mbr-testimonial .card-block .testimonial-photo {
+.cid-rqvioCvDUS .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
   width: 120px;
   height: 120px;
@@ -2283,12 +2287,12 @@ body {
   overflow: hidden;
   border-radius: 50%;
 }
-.cid-rkanaIwPnq .mbr-testimonial .card-block .testimonial-photo img {
+.cid-rqvioCvDUS .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-rkanaIwPnq .mbr-testimonial .card-footer {
+.cid-rqvioCvDUS .mbr-testimonial .card-footer {
   padding-bottom: 2.4rem;
   border-top: 0;
   padding-top: 1rem;
@@ -2297,7 +2301,7 @@ body {
   background: none;
 }
 @media (max-width: 300px) {
-  .cid-rkanaIwPnq .testimonial-photo {
+  .cid-rqvioCvDUS .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
