@@ -2247,6 +2247,7 @@ body {
 .cid-rkameIUc1w .mbr-text {
   color: #232323;
 }
+/* teacher block (cid-rqvioCvDUS) */
 .cid-rqvioCvDUS {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -2279,10 +2280,11 @@ body {
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
+/*member_photo*/
 .cid-rqvioCvDUS .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2338,10 +2340,12 @@ body {
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
+/* member block_1 (cid-rkiERRjCU4)*/
+/* member_photo */
 .cid-rkiERRjCU4 .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2396,10 +2400,12 @@ body {
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
+/* member block_2 (cid-rkiJUCkSwc)*/
+/* member_photo */
 .cid-rkiJUCkSwc .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
