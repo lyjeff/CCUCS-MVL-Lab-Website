@@ -1,10 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Lobster:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Satisfy:400);
+/* traditional chinese font */
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC:400&display=swap);
 
-
-
-
+/* teacher block (cid-rqvioCvDUS) */
+/* member block_1 (cid-rkiERRjCU4)*/
+/* member block_2 (cid-rkiJUCkSwc)*/
+/* graduated member block_1 (cid-rqUeBQz3bX)*/
+/* graduated member block_2 (cid-rqUeUDJXSJ)*/
+/* graduated member block_3 (cid-rqUeVprWTC)*/
 
 body {
   font-style: normal;
@@ -54,6 +59,77 @@ body {
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
+  font-size: 1.6rem;
+}
+/* additional fonts */
+.display-1ns {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 4.25rem;
+}
+.display-1ns > .mbr-iconfont {
+  font-size: 6.8rem;
+}
+.display-2ns {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 2.4rem;
+}
+.display-2ns > .mbr-iconfont {
+  font-size: 3.84rem;
+}
+.display-4ns {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1.4rem;
+}
+.display-4ns > .mbr-iconfont {
+  font-size: 2.24rem;
+}
+.display-5ns {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1.5rem;
+}
+.display-5ns > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+.display-7ns {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1rem;
+}
+.display-7ns > .mbr-iconfont {
+  font-size: 1.6rem;
+}
+.display-1c {
+  font-family: '標楷體', sans-serif;
+  font-size: 4.25rem;
+}
+.display-1c > .mbr-iconfont {
+  font-size: 6.8rem;
+}
+.display-2c {
+  font-family: '標楷體', sans-serif;
+  font-size: 2.4rem;
+}
+.display-2c > .mbr-iconfont {
+  font-size: 3.84rem;
+}
+.display-4c {
+  font-family: '標楷體', sans-serif;
+  font-size: 1.4rem;
+}
+.display-4c > .mbr-iconfont {
+  font-size: 2.24rem;
+}
+.display-5c {
+  font-family: '標楷體', sans-serif;
+  font-size: 1.5rem;
+}
+.display-5c > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+.display-7c {
+  font-family: '標楷體', sans-serif;
+  font-size: 1rem;
+}
+.display-7c > .mbr-iconfont {
   font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
@@ -2247,6 +2323,7 @@ body {
 .cid-rkameIUc1w .mbr-text {
   color: #232323;
 }
+/* teacher block (cid-rqvioCvDUS) */
 .cid-rqvioCvDUS {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -2277,12 +2354,12 @@ body {
 .cid-rqvioCvDUS .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 2rem 2.4rem 0 2.4rem;
 }
 .cid-rqvioCvDUS .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 250px;
+  height: 250px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2306,6 +2383,7 @@ body {
     height: auto !important;
   }
 }
+/* member block_1 (cid-rkiERRjCU4)*/
 .cid-rkiERRjCU4 {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2336,12 +2414,12 @@ body {
 .cid-rkiERRjCU4 .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 1.5rem 2.4rem 0 2.4rem;
 }
 .cid-rkiERRjCU4 .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2365,6 +2443,7 @@ body {
     height: auto !important;
   }
 }
+/* member block_2 (cid-rkiJUCkSwc)*/
 .cid-rkiJUCkSwc {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2394,12 +2473,12 @@ body {
 .cid-rkiJUCkSwc .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 1.5rem 2.4rem 0 2.4rem;
 }
 .cid-rkiJUCkSwc .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2426,6 +2505,7 @@ body {
 .cid-rkiJUCkSwc .mbr-text B {
   color: #232323;
 }
+/* graduated member block_1 (cid-rqUeBQz3bX)*/
 .cid-rqUeBQz3bX {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -2455,12 +2535,12 @@ body {
 .cid-rqUeBQz3bX .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 1.5rem 2.4rem 0 2.4rem;
 }
 .cid-rqUeBQz3bX .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2484,6 +2564,7 @@ body {
     height: auto !important;
   }
 }
+/* graduated member block_2 (cid-rqUeUDJXSJ)*/
 .cid-rqUeUDJXSJ {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2513,12 +2594,12 @@ body {
 .cid-rqUeUDJXSJ .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 1.5rem 2.4rem 0 2.4rem;
 }
 .cid-rqUeUDJXSJ .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2542,6 +2623,7 @@ body {
     height: auto !important;
   }
 }
+/* graduated member block_3 (cid-rqUeVprWTC)*/
 .cid-rqUeVprWTC {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2571,12 +2653,12 @@ body {
 .cid-rqUeVprWTC .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
+  padding: 1.5rem 2.4rem 0 2.4rem;
 }
 .cid-rqUeVprWTC .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 120px;
-  height: 120px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
