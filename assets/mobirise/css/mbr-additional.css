@@ -3,7 +3,8 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy:400);
 /* traditional chinese font */
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC:400&display=swap);
-
+/* additional font */
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap);
 /* teacher block (cid-rqvioCvDUS) */
 /* member block_1 (cid-rkiERRjCU4)*/
 /* member block_2 (cid-rkiJUCkSwc)*/
@@ -130,6 +131,41 @@ body {
   font-size: 1rem;
 }
 .display-7c > .mbr-iconfont {
+  font-size: 1.6rem;
+}
+.display-1pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4.25rem;
+}
+.display-1pm > .mbr-iconfont {
+  font-size: 6.8rem;
+}
+.display-2pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.4rem;
+}
+.display-2pm > .mbr-iconfont {
+  font-size: 3.84rem;
+}
+.display-4pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.4rem;
+}
+.display-4pm > .mbr-iconfont {
+  font-size: 2.24rem;
+}
+.display-5pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5rem;
+}
+.display-5pm > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+.display-7pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1rem;
+}
+.display-7pm > .mbr-iconfont {
   font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
