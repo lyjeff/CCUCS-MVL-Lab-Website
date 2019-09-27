@@ -258,7 +258,7 @@
 
     $(window).on('resize load', fitLBtimeout);
 
-    $window.on('slid.bs.carousel', function(e) {
+    $window.on('slide.bs.carousel', function(e) {
         var ytv = $(e.target).find('.carousel-item.active .mbr-background-video');
 
         if (ytv.length > 0) {
