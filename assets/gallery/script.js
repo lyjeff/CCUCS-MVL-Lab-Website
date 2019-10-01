@@ -48,6 +48,8 @@
 
                     player.playVideo = Vimeo.play;
                 } else {
+                    
+
                     var player = new YT.Player('mbr-video-' + i, {
                         height: '100%',
                         width: '100%',
