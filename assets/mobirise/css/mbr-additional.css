@@ -12,6 +12,11 @@
 /* graduated member block_2 (cid-rqUeUDJXSJ)*/
 /* graduated member block_3 (cid-rqUeVprWTC)*/
 
+@font-face {
+  font-family: Lato-Bold;
+  src: url('../../../fonts/Lato/Lato-Bold.ttf'); 
+}
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -91,6 +96,15 @@ body {
 .display-5ns > .mbr-iconfont {
   font-size: 2.4rem;
 }
+
+.display-5ns-en {
+  font-family: Lato-Bold;
+  font-size: 1.5rem;
+}
+.display-5ns-en > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+
 .display-7ns {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 1rem;
@@ -3199,6 +3213,16 @@ body {
 .cid-rkqSAf2E3x H1 {
   color: #634221;
 }
+
+.cid-rkqSA2wfj5 {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-16-1920x1280.jpg");
+}
+.cid-rkqSA2wfj5 H1 {
+  color: #8c88bd;
+}
+
 .cid-rkuGWVyjAL {
   padding-top: 90px;
   padding-bottom: 90px;
