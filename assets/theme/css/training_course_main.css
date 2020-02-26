@@ -538,11 +538,12 @@ th, td {
     width: 10%;
   }
   .limiter {
-    width: 400px;
+    width: 100%;
     margin: 0 auto;
   }
   .table100.ver2 th {
     font-size: 5px;
+    line-height: 1;
   }
   .table100.ver2 th, td {
     font-weight: unset;
@@ -550,8 +551,18 @@ th, td {
   }
   .table100.ver2 td {
     font-size: 5px;
+    line-height: 1.0;
   }
   .link-img{
     width: 25px;
+  }
+  .table100-head th {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+  
+  .table100-body td {
+    padding-top: 0px;
+    padding-bottom: 16px;
   }
 }
