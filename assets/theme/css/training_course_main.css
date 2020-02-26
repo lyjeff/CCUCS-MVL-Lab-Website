@@ -542,7 +542,7 @@ th, td {
     margin: 0 auto;
   }
   .table100.ver2 th {
-    font-size: 5px;
+    font-size: 8px;
     line-height: 1;
   }
   .table100.ver2 th, td {
@@ -550,7 +550,7 @@ th, td {
     padding-right: 5px;
   }
   .table100.ver2 td {
-    font-size: 5px;
+    font-size: 8px;
     line-height: 1.0;
   }
   .link-img{
@@ -562,7 +562,12 @@ th, td {
   }
   
   .table100-body td {
-    padding-top: 0px;
+    padding-top: 16px;
     padding-bottom: 16px;
+  }
+
+  .table100 {
+    position: relative;
+    padding-top: 40px;
   }
 }
