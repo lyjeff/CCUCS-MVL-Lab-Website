@@ -14,6 +14,10 @@
         }
     }
 
+    // for (var i=0; i<$(".video-container").length; i++){
+    //     $(".carousel-inner").append('<div class="carousel-item video-container"></div>');
+    // }
+
     var isBuilder = $('html').hasClass('is-builder');
 
     /* get youtube id */
@@ -23,18 +27,20 @@
         tag.src = "https://www.youtube.com/iframe_api";
         var firstScriptTag = document.getElementsByTagName('script')[0];
         firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-        var players = [];
+        var players = {};
 
         /* google iframe api init function */
         window.onYouTubeIframeAPIReady = function() {
             var ytp = ytp || {};
             ytp.YTAPIReady || (ytp.YTAPIReady = !0,
                 jQuery(document).trigger("YTAPIReady"));
-
             $('.video-slide').each(function(i) {
-                $('.video-container').eq(i).append('<div id ="mbr-video-' + i + '" class="mbr-background-video" data-video-num="' + i + '"></div>')
+                var vid = $(".video-slide:eq(" + i + ") div").attr("data-slide-to");
+                $('.video-container').eq(i).append('<div id ="mbr-video-' + i + '" class="mbr-background-video" data-video-num="' + vid + '"></div>')
                     .append('<div class="item-overlay"></div>');
-                $(this).attr('data-video-num', i);
+                // $('.carousel-inner').append('<div class="carousel-item video-container"><div id ="mbr-video-' + i + '" class="mbr-background-video" data-video-num="' + vid + '"></div>')
+                //     .append('<div class="item-overlay"></div></div>');
+                $(this).attr('data-video-num', vid);
 
                 if ($(this).attr('data-video-url').indexOf('vimeo.com') !== -1) {
                     var options = {
@@ -48,6 +54,8 @@
 
                     player.playVideo = Vimeo.play;
                 } else {
+                    
+
                     var player = new YT.Player('mbr-video-' + i, {
                         height: '100%',
                         width: '100%',
@@ -61,7 +69,7 @@
                     });
                 }
 
-                players.push(player);
+                players[vid] = player;
             });
         };
     }
@@ -234,13 +242,12 @@
 
     $window.on('show.bs.modal', function(e) {
         clearTimeout(timeout2);
-
         var timeout2 = setTimeout(function() {
-            var index = $(e.relatedTarget).parent().index();
+            var index = parseInt($(e.relatedTarget).attr("data-slide-to"));
             var slide = $(e.target).find('.carousel-item').eq(index).find('.mbr-background-video');
             $(e.target).find('.carousel-item .mbr-background-video');
             if (slide.length > 0) {
-                var player = players[+slide.attr('data-video-num')];
+                var player = players[slide.attr('data-video-num')];
                 player.playVideo ? player.playVideo() : player.play();
             }
         }, 500);
@@ -248,30 +255,28 @@
         fitLBtimeout();
     });
 
-    $window.on('slide.bs.carousel', function(e) {
-        var ytv = $(e.target).find('.carousel-item.active .mbr-background-video');
-        if (ytv.length > 0) {
-            var player = players[+ytv.attr('data-video-num')];
-            player.pauseVideo ? player.pauseVideo() : player.pause();
-        }
-    });
-
     $(window).on('resize load', fitLBtimeout);
 
-    $window.on('slid.bs.carousel', function(e) {
-        var ytv = $(e.target).find('.carousel-item.active .mbr-background-video');
+    // $window.on('slide.bs.carousel', function(e) {
+    //     var ytv = $(e.target).find('.carousel-item.active .mbr-background-video');
+    //     console.log("HERE");
+    //     console.log(ytv.attr('data-video-num'));
+    //     if (ytv.length > 0) {
 
-        if (ytv.length > 0) {
-            var player = players[+ytv.attr('data-video-num')];
-            player.playVideo ? player.playVideo() : player.play();
-        }
+    //         var player = players[ytv.attr('data-video-num')];
+    //         player.playVideo ? player.playVideo() : player.play();
+    //     }
 
-        fitLBtimeout();
-    });
+    //     fitLBtimeout();
+    // });
 
     $window.on('hide.bs.modal', function(e) {
-        players.map(function(player, i) {
+        for (var key in players){
+            var player = players[key];
             player.pauseVideo ? player.pauseVideo() : player.pause();
-        });
+            
+        }
+        
+        
     });
 }(jQuery));

@@ -3,13 +3,19 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy:400);
 /* traditional chinese font */
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+TC:400&display=swap);
-
+/* additional font */
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap);
 /* teacher block (cid-rqvioCvDUS) */
 /* member block_1 (cid-rkiERRjCU4)*/
 /* member block_2 (cid-rkiJUCkSwc)*/
 /* graduated member block_1 (cid-rqUeBQz3bX)*/
 /* graduated member block_2 (cid-rqUeUDJXSJ)*/
 /* graduated member block_3 (cid-rqUeVprWTC)*/
+
+@font-face {
+  font-family: Lato-Bold;
+  src: url('../../../fonts/Lato/Lato-Bold.ttf'); 
+}
 
 body {
   font-style: normal;
@@ -90,6 +96,15 @@ body {
 .display-5ns > .mbr-iconfont {
   font-size: 2.4rem;
 }
+
+.display-5ns-en {
+  font-family: Lato-Bold;
+  font-size: 1.5rem;
+}
+.display-5ns-en > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+
 .display-7ns {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 1rem;
@@ -130,6 +145,41 @@ body {
   font-size: 1rem;
 }
 .display-7c > .mbr-iconfont {
+  font-size: 1.6rem;
+}
+.display-1pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 4.25rem;
+}
+.display-1pm > .mbr-iconfont {
+  font-size: 6.8rem;
+}
+.display-2pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.4rem;
+}
+.display-2pm > .mbr-iconfont {
+  font-size: 3.84rem;
+}
+.display-4pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.4rem;
+}
+.display-4pm > .mbr-iconfont {
+  font-size: 2.24rem;
+}
+.display-5pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1.5rem;
+}
+.display-5pm > .mbr-iconfont {
+  font-size: 2.4rem;
+}
+.display-7pm {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 1rem;
+}
+.display-7pm > .mbr-iconfont {
   font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
@@ -548,7 +598,7 @@ body {
   color: #ff3366 !important;
 }
 .text-success {
-  color: #efbe2b !important;
+  color: #43AA8B !important;
 }
 .text-info {
   color: #82786e !important;
@@ -560,11 +610,15 @@ body {
   color: #b1a374 !important;
 }
 .text-white {
-  color: #ffffff !important;
+  color: #F7F7FF !important;
 }
 .text-black {
   color: #000000 !important;
 }
+.text-title{
+  color: #f1f1f1 !important;
+}
+
 a.text-primary:hover,
 a.text-primary:focus {
   color: #0b566f !important;
@@ -575,7 +629,8 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #a7810d !important;
+  color: #254441 !important;
+  
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -1778,7 +1833,7 @@ body {
 .cid-rjRThb06kB {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/ai-img-5-1638x632.png");
+  background-image: url("../../../assets/images/bg.jpeg");
 }
 .cid-rjRThb06kB H1 {
   text-align: center;
@@ -2358,8 +2413,8 @@ body {
 }
 .cid-rqvioCvDUS .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2418,8 +2473,8 @@ body {
 }
 .cid-rkiERRjCU4 .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2477,8 +2532,8 @@ body {
 }
 .cid-rkiJUCkSwc .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2539,8 +2594,8 @@ body {
 }
 .cid-rqUeBQz3bX .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2598,8 +2653,8 @@ body {
 }
 .cid-rqUeUDJXSJ .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -2657,8 +2712,8 @@ body {
 }
 .cid-rqUeVprWTC .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 1.6rem;
   overflow: hidden;
   border-radius: 50%;
@@ -3163,6 +3218,16 @@ body {
 .cid-rkqSAf2E3x H1 {
   color: #634221;
 }
+
+.cid-rkqSA2wfj5 {
+  padding-top: 135px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-16-1920x1280.jpg");
+}
+.cid-rkqSA2wfj5 H1 {
+  color: #8c88bd;
+}
+
 .cid-rkuGWVyjAL {
   padding-top: 90px;
   padding-bottom: 90px;

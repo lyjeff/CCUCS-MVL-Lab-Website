@@ -1,0 +1,715 @@
+[33mcommit 94fc2869d70763f123b7450023c49d4c504b665a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Lun Lee <xu3mp6xjp6@gmail.com>
+Date:   Tue Oct 1 23:48:17 2019 +0800
+
+    modified background image, add crew members' pictures
+
+[33mcommit 05f90b3d85eb2e116ca5a189f080d3f002e5f06a[m
+Author: apie0419 <xu3mp6xjp6@gmail.com>
+Date:   Fri Sep 27 14:21:30 2019 +0800
+
+    Update script.js
+
+[33mcommit 4c55cf5a2405c7f7d97bc0724e4203de62ac6879[m
+Author: apie0419 <xu3mp6xjp6@gmail.com>
+Date:   Wed Sep 18 17:54:13 2019 +0800
+
+    Add files via upload
+
+[33mcommit 83f8cff6276978b518eb335781a9e476586e93a1[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Fri Jul 12 16:03:11 2019 +0800
+
+    0712 update
+    
+    0712 update
+
+[33mcommit fec45e9eea5645a8d4760246e7e21ce46949208e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Fri Jul 12 15:48:20 2019 +0800
+
+    update English version link
+    
+    update English version link, line 485 2382 2923
+
+[33mcommit cbf1f698b21caff9d1283534b4c9e81f3f64cc96[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Fri Jul 12 15:46:27 2019 +0800
+
+    update English version link
+    
+    update English version link ,line 52
+
+[33mcommit 7483f1493322fda46cd1eed8f836f866ffb1bc3f[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Fri Jul 12 15:45:53 2019 +0800
+
+    update English version link
+    
+    update English version link, line 51
+
+[33mcommit 1c8746a20b440368802e4d279ca4510f7a96bcf4[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Fri Jul 12 15:45:05 2019 +0800
+
+    update English version link
+    
+    update English version link, line 76
+
+[33mcommit 8ac4d886d71248af0f0a285cec4300a59708a19f[m
+Merge: 700199e 24258ae
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Thu Jul 11 10:18:41 2019 +0800
+
+    Merge pull request #3 from egoistclaris/master
+    
+    0711 merge
+
+[33mcommit 24258ae057eeaa38dc40058e0b27e16a84dbcf90[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Thu Jul 11 10:15:13 2019 +0800
+
+    0711 update
+    
+    0711 update
+
+[33mcommit 8775dd6363966383cc5367e7f2b79623534aa102[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Thu Jul 11 10:14:25 2019 +0800
+
+    0711 update
+    
+    0711 update
+
+[33mcommit 700199e2fa77c9a1e668be55f683cee373ee8760[m
+Merge: adf3ac9 65aaee8
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 17:17:53 2019 +0800
+
+    Merge pull request #2 from egoistclaris/master
+    
+    merge
+
+[33mcommit 65aaee8e131921285eccff868de610444ccb71be[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 17:11:37 2019 +0800
+
+    update SEO
+    
+    update SEO
+
+[33mcommit a538e3b62400590d14de7f9699e13d3af4427b00[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 17:05:22 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit c208e2dd6934030df052bb2b6b0091827fb45fec[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 17:04:20 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit cfb423716e53fe360c6ecd254c4ec1d250965e83[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 17:02:12 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit 98691372bdb94299007b9a37d537e7ced36d2c6e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:57:29 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit 6ad2a5f4920ae6656b94fdd5fcf610c1ee029f02[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:53:36 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit d9b37cb319bd6665875cc30e2cd74887ef027f79[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:46:07 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit 7536b8fcc9fce9065bc000ab6ead4f46357bea76[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:44:33 2019 +0800
+
+    update html
+    
+    update html
+
+[33mcommit aa4c0a64eefcabf1761c5a0bc2f14038a2f82593[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:43:36 2019 +0800
+
+    update html & font
+    
+    update html & font
+
+[33mcommit d99a8245d18cf8387c9692509d6f9576f030c06c[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:41:00 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit 1e8d5019b31ee18f753e3dad7e9bbe6f1898d2b8[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:40:20 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit 89a170e51f157ab3d7e294c62da4d898b00244a0[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:37:14 2019 +0800
+
+    update
+    
+    update
+
+[33mcommit d628aabfcd7d3f1ff45544fc4f41978ca296e643[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jul 10 16:33:57 2019 +0800
+
+    update html
+    
+    update html
+
+[33mcommit adf3ac94baa0726b36209ebb585f23812209806a[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon Jul 1 15:31:47 2019 +0800
+
+    add more content description
+    
+    add more content description
+
+[33mcommit 46ea0c0b50045d8e834f458e2eb2b8b3ed2ef86b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jun 26 04:43:05 2019 +0800
+
+    change title & content description
+    
+    change title & content description
+
+[33mcommit 553d02d452bb2ef70a80124b78061cc5f168c5ae[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jun 26 04:34:44 2019 +0800
+
+    add title & content description
+    
+    add title & content description
+
+[33mcommit 3a9e8d87267fea96d6071df1f5dd110b66639ee5[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Jun 26 03:58:37 2019 +0800
+
+    add sitemap.xml
+    
+    add sitemap.xml
+
+[33mcommit fc45a46ed42177a8ac852ff69633dcf3faa4e2bd[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue Jun 11 18:03:24 2019 +0800
+
+    Verify_HTML
+    
+    Verify HTML
+
+[33mcommit 01bafceed03d57fe4cd1071fc52ae227f88d9e6e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 16:55:33 2019 +0800
+
+    Add files via upload
+    
+    update SEO
+
+[33mcommit ee7bd96f1e879056cb2c3c9a91d97ee7ea95de20[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 16:54:45 2019 +0800
+
+    Update index.html
+    
+    update SEO
+
+[33mcommit 7855764d7f3bc4c286529dad81146597137fc7b2[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 16:28:24 2019 +0800
+
+    Update index.html
+
+[33mcommit d33870bd804dd7898177ceecd5dd1196f249ee40[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 16:25:00 2019 +0800
+
+    Update index.html
+
+[33mcommit abefb31fba6f7909b1a9aa4d0181d975f7292ce9[m
+Merge: 20eb4f5 2164688
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 13:12:35 2019 +0800
+
+    Merge pull request #1 from egoistclaris/gh-pages
+    
+    site 0522
+
+[33mcommit c0284a3c3b13f51286beaecdbe9aa4a2f52632b9[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 00:54:56 2019 +0800
+
+    Add files via upload
+    
+    update members' photo size
+
+[33mcommit 305282084253b7f2a3f9e4964e00957e16762a17[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 22 00:49:36 2019 +0800
+
+    Add files via upload
+    
+    update members' photo size
+
+[33mcommit 1fc0126e18255d27ee74adbb030379569c194c1d[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 18:01:10 2019 +0800
+
+    Update page2.html
+    
+    update English version link
+
+[33mcommit 53bf1fcd297b13e5b4b7f5e63a9c14e92600b278[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 17:55:17 2019 +0800
+
+    Update page1.html
+    
+    update English version link
+
+[33mcommit 3af591b6910271d79041fb3fe416844e87db2e1d[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 17:28:04 2019 +0800
+
+    Update index.html
+    
+    update English version link
+
+[33mcommit 7bc393a3840becf6836ae420e024b6aedb955be6[m
+Merge: 20eb4f5 2164688
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 17:17:03 2019 +0800
+
+    Merge pull request #1 from ccumvllab/gh-pages
+    
+    site 0521
+
+[33mcommit 21646881cbf23b1987d7fe1654a88c876f4b5288[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 07:00:23 2019 +0800
+
+    Add files via upload
+
+[33mcommit 2fb667ba241da64ea1d3c47ffc307f6b03eaa094[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 06:57:54 2019 +0800
+
+    Update mbr-additional.css
+
+[33mcommit fd48b25a63a049587ae8920ab33de755d454149b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 06:51:47 2019 +0800
+
+    create github pages
+
+[33mcommit 2af9e9d18430dceb4c49007f339364b41c769489[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 06:38:37 2019 +0800
+
+    Add files via upload
+
+[33mcommit f320e599074dd6979129320318a4b82e49c4e106[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 06:37:45 2019 +0800
+
+    Delete page3.html
+
+[33mcommit 4b636b2401ce82f7f2cf4e2b13ac7748093e8b81[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 06:37:24 2019 +0800
+
+    Add files via upload
+
+[33mcommit 35216707e730da8a0c4e129e72f9f424da0cf97b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 03:37:35 2019 +0800
+
+    create github pages
+
+[33mcommit 0b648e8db0cc50df31661a840d6df6600cbda48e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 00:31:36 2019 +0800
+
+    create github pages
+
+[33mcommit 0983e7e3f4a2b14521ad0bde0c9e3f876e5b8711[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 21 00:27:55 2019 +0800
+
+    create github pages
+
+[33mcommit bf4afd307cc96b4aca65b4ca408cfc1d18740ab2[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 20 18:10:27 2019 +0800
+
+    create github pages
+
+[33mcommit 943ca37e36f30fb01fa46a2d15d2711c7e6bdbc5[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 20 17:45:58 2019 +0800
+
+    create github pages
+
+[33mcommit f6aadbd749a9549b5b6cc754fde06e05186f1a12[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 20 17:32:24 2019 +0800
+
+    create github pages
+
+[33mcommit b9ea0f158cc4bd5a09990744b28c2e6eba888a44[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 20 17:24:10 2019 +0800
+
+    create github pages
+
+[33mcommit b726859c01bd894f99a0d8beba113b727330c226[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 20 04:08:00 2019 +0800
+
+    create github pages
+
+[33mcommit 1f02ae4153cb2015c7b95cf86c98ec6da416741e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 20 03:39:48 2019 +0800
+
+    create github pages
+
+[33mcommit 38e88bb8c9752c8f75988add94ad4362df6e840d[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun May 19 23:44:31 2019 +0800
+
+    create github pages
+
+[33mcommit 2c7ee0fc3e5e393521c4751fc6d8910d755916da[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun May 19 21:15:12 2019 +0800
+
+    create github pages
+
+[33mcommit 885996b840e83a6ae94f9409e0ce7fa36db73c3f[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 17:44:46 2019 +0800
+
+    create github pages
+
+[33mcommit dd3c7ff2652e683a01a1f01e49f1975fd9ea0fc7[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 17:41:51 2019 +0800
+
+    create github pages
+
+[33mcommit da95118cdfb8da994a5c6ac5b74249263d6605a5[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 17:16:08 2019 +0800
+
+    Update mbr-additional.css
+
+[33mcommit a3d7d86750f54bf3ae9e288446e1901a1e5c6489[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 14:04:45 2019 +0800
+
+    Update index.html
+
+[33mcommit b2cf9b1a3bc93e369df3b4f36a03a6d2a645daa4[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 13:39:25 2019 +0800
+
+    create github pages
+
+[33mcommit afd2e9085fcd85b971061649832c381e4eb9bf7b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 11:03:53 2019 +0800
+
+    create github pages
+
+[33mcommit 1eb7c4999ef7335b21eae4878d19330b1711d9ae[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 10:58:03 2019 +0800
+
+    create github pages
+
+[33mcommit a60136573d64576ba80ae5a44dd2b7c06d654dfa[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 10:46:48 2019 +0800
+
+    create github pages
+
+[33mcommit ba09b416ff7acdfab57fd4f3088a603c0a3f1657[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 15 10:41:52 2019 +0800
+
+    create github pages
+
+[33mcommit b0e317a5832581fa9a770e2c3af32b5bab68ab11[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 13 17:37:39 2019 +0800
+
+    create github pages
+
+[33mcommit def18412f3c19a7ec8229094c9861a8bf6e6f55c[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 13 17:17:58 2019 +0800
+
+    create github pages
+
+[33mcommit 7cbd44890c4930c18dde32b717114713dbc4a623[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon May 13 16:53:06 2019 +0800
+
+    create github pages
+
+[33mcommit f219a1bd0ec7ec58778a8eb0193dadbb3f78fa65[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat May 11 01:46:05 2019 +0800
+
+    create github pages
+
+[33mcommit 54c918741914dc11961258e5bb293e9a2aee3c2b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 07:49:16 2019 +0800
+
+    create github pages
+
+[33mcommit cf44e815bbcfe9336e6d42458f884ea5907f5c57[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 07:13:25 2019 +0800
+
+    create github pages
+
+[33mcommit 6f1721b68258c49fce2f7f426db9e8168f414aa8[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 07:09:48 2019 +0800
+
+    create github pages
+
+[33mcommit 49e562332fe35bf403facea77488c95d75a8bc35[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 07:04:21 2019 +0800
+
+    Delete page2.html
+
+[33mcommit ca2a871fa9b3fd6d431995f407b454b4dd1c5419[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 06:53:37 2019 +0800
+
+    create github pages
+
+[33mcommit 4c0ef2f952493c2d491a377307137266a47ec9ef[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 06:39:03 2019 +0800
+
+    create github pages
+
+[33mcommit 6ca6658452f7483b88b9250de9885df0ed2f9fb4[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue May 7 06:27:16 2019 +0800
+
+    create github pages
+
+[33mcommit af3c6664775f13bb94a2b20fbb579293664110ce[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 1 13:18:16 2019 +0800
+
+    Update style.css
+
+[33mcommit dde17e2d40d016171725042d637f211949f72ac9[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 1 13:15:15 2019 +0800
+
+    Update index.html
+
+[33mcommit e1be7423b75059eb6cd1ab0acc52e44a6a0b3634[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed May 1 12:51:27 2019 +0800
+
+    create github pages
+
+[33mcommit b0559824a6553853e4219da8769d2c77adb05e9c[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun Apr 28 16:42:14 2019 +0800
+
+    create github pages
+
+[33mcommit e991615d326d50f162af859266320d94da3b8d4b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun Apr 28 16:29:20 2019 +0800
+
+    create github pages
+
+[33mcommit db65e2c60e8cf32f89f8d54d8044636145873878[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Thu Mar 14 11:42:35 2019 +0800
+
+    Update index.html
+
+[33mcommit 38050d2912b06c175b25a773995cd46fc1bbaaa6[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Thu Mar 14 11:38:04 2019 +0800
+
+    Update index.html
+    
+    Carousel adding
+
+[33mcommit de8f352678dfc578edab771791d8a1e8ea88c619[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Thu Mar 14 11:34:57 2019 +0800
+
+    Update style.css
+    
+    Carousel adding
+
+[33mcommit 8caa02f5a9a3228ceb74d9e0387f5ebe22c6878b[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Mar 13 17:55:30 2019 +0800
+
+    create github pages
+
+[33mcommit b9e93a63c41ece0b94dde59634f72ccda5297593[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Mar 13 17:45:41 2019 +0800
+
+    create github pages
+
+[33mcommit bfe130d8e0fa0a7bd74036d519e662ed5c4d8184[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Wed Mar 13 00:12:07 2019 +0800
+
+    create github pages
+
+[33mcommit 40fac80d08ef2677fa23fa731ee8605bece689f2[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue Mar 12 18:45:46 2019 +0800
+
+    create github pages
+
+[33mcommit 9a09084e0934beeb00d82271badfdd4136e3712c[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue Mar 12 16:46:58 2019 +0800
+
+    create github pages
+
+[33mcommit d4556db25aaefc4a35598bedf521c71a26632e6e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue Mar 12 16:26:53 2019 +0800
+
+    Add files via upload
+
+[33mcommit a7439734c64334eecec2f61fc40196e94bcaa6cc[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue Mar 12 01:38:15 2019 +0800
+
+    create github pages
+
+[33mcommit 1f4e605750c7aff01b389bfde315b4d322eb4eac[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Tue Mar 12 01:20:50 2019 +0800
+
+    create github pages
+
+[33mcommit 63032bcb6623d9c330ad863139985b0aafe5e5f3[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon Mar 11 03:48:44 2019 +0800
+
+    create github pages
+
+[33mcommit a38c9764510780dd0ad63d2d9cfc7210e3811eb9[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon Mar 11 02:29:27 2019 +0800
+
+    create github pages
+
+[33mcommit e363a7e005c38ebdeef54419a593aec04b0acb20[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Mon Mar 11 02:16:48 2019 +0800
+
+    create github pages
+
+[33mcommit 549410364213dfad4c490749355595801b5abb02[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun Mar 10 16:32:01 2019 +0800
+
+    create github pages
+
+[33mcommit ee54a48caa12811e8c0872041653a14886df0ed2[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun Mar 10 15:47:00 2019 +0800
+
+    create github pages
+
+[33mcommit b1ec37ad8f2339802aebe9ffe282a6774b60e0a7[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sun Mar 10 15:40:56 2019 +0800
+
+    create github pages
+
+[33mcommit d6b5c3eac4b03a3874c7a469844263e12cae2d92[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat Mar 9 06:11:37 2019 +0800
+
+    create github pages
+
+[33mcommit fa93ef6647bc20809bd624e6d19c170e7812a72a[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat Mar 9 06:00:41 2019 +0800
+
+    create github pages
+
+[33mcommit 9a5b7b52317ad247b75f6525488b5603a14aeab1[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat Mar 9 05:58:34 2019 +0800
+
+    create github pages
+
+[33mcommit a0edf600cf7b64c102b6299a77b238c087329991[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat Mar 9 05:32:04 2019 +0800
+
+    create github pages
+
+[33mcommit 81d5414b05484202c92b118110ab1462d8b4f5e7[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat Mar 9 03:51:44 2019 +0800
+
+    create github pages
+
+[33mcommit 20eb4f51dfefc550a23536e0d3dd4880c8aff41e[m
+Author: PolarCactus <410321127@ems.ndhu.edu.tw>
+Date:   Sat Mar 9 03:49:15 2019 +0800
+
+    Initial commit
